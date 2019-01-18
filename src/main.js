@@ -29,4 +29,4 @@ Vue.config.productionTip = false
 // use vue-custom-element
 App.store = store
 App.router = router
-Vue.customElement('vue-widget', App)
+Vue.customElement('yestime-offer', App)
